@@ -1,3 +1,9 @@
+# 附件
+
+在 results/ 文件夹下附上了模型在最优 checkpoint 下的输出。
+
+所有图片的命名格式均为 a-b.png ，其中 a 为 visaulize_train_result.ipynb 中的 ID ，b 为 frag_id 。
+
 # 数据集
 在
 

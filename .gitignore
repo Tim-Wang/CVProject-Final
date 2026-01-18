@@ -7,5 +7,4 @@ data/
 runs/
 checkpoints/
 data_voxelized.zip
-*.png
 result_checkpoints/
