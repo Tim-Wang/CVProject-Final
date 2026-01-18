@@ -38,4 +38,11 @@ tensorboard --logdir ./runs/
 
 # 可视化训练效果
 
-打开 visualize_train_result.ipynb ，选择正确的 kernel 后，填入刚刚训练好的权重路径。然后，依次运行各 block ，可以看到模型在某特定碎片上的补全结果。
+先从
+
+https://disk.pku.edu.cn/link/AAEB65273F86D243C394DA91C796785D5F
+
+下载 checkpoint 。
+
+打开 visualize_train_result.ipynb ，选择正确的 kernel 后，填入 checkpoint 路径。然后，依次运行各 block ，可以看到模型在某特定碎片上的补全结果。
+
