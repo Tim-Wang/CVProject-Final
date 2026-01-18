@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+data/
+runs/
+checkpoints/
+data_voxelized.zip
+*.png
+result_checkpoints/
